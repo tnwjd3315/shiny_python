@@ -1,0 +1,4 @@
+# .huggingface.yaml
+repo: your-hf-SusuAvocado/shinypython
+type: space
+sdk: gradio
